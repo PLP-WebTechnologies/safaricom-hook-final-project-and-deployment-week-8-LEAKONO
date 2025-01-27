@@ -1,66 +1,86 @@
-### **Assignment: Final Project – Designing, Coding, and Deploying a Multipage Website** 🌐🚀
+# **Quiz App**
 
----
+A simple web-based quiz application built with HTML, CSS, and vanilla JavaScript. The app allows users to take a quiz, select answers, and view their score. It provides feedback on correct and incorrect answers and allows users to restart the quiz.
 
-#### **Objective:**
-The goal of this assignment is to create a **multipage website** that is fully designed, coded, and deployed on a hosting platform. By the end of this project, you will have a comprehensive understanding of **front-end web development**, including **HTML5**, **CSS3**, **JavaScript**, and **deployment** to live servers. This will showcase your ability to build a **responsive** and **interactive** website that is ready for production.
+## **Features**
+- **Start the Quiz**: Users can begin the quiz by clicking a "Start" button.
+- **Answer Questions**: Multiple-choice questions with options to choose from.
+- **Feedback on Answers**: Correct answers are highlighted in green, and incorrect answers are highlighted in red.
+- **Next Question**: After answering, users can move to the next question.
+- **Final Score**: At the end of the quiz, users receive their score.
+- **Restart Quiz**: Users can restart the quiz once it's completed.
 
----
+## **Technologies Used**
+- **HTML**: For structuring the web page.
+- **CSS**: For styling the quiz app.
+- **JavaScript**: For implementing quiz logic, handling answers, and navigation.
 
-### **Project Requirements:**
+## **Project Structure**
 
-1. **Website Design**:
-   - **Design a website** that has at least **three pages** (e.g., Home, About, Contact).
-   - Each page should have **unique content** but maintain a consistent layout and design (using a **common theme** or **template**).
-   - The website should be **responsive**, meaning it must look good and function properly on devices of all sizes (desktop, tablet, mobile).
-   - You are encouraged to use **modern design trends** (flat design, minimalism, or material design) and **UI/UX principles**.
+## **How to Use**
+1. Clone or download this repository.
+2. Open `index.html` in your browser to start playing the quiz.
+3. Click the **Start Quiz** button to begin the quiz.
+4. Answer the questions and see your score at the end.
+5. Click **Restart Quiz** to play again.
 
-2. **HTML5 Structure**:
-   - Use semantic HTML5 tags where appropriate (`<header>`, `<footer>`, `<main>`, `<section>`, etc.).
-   - Ensure the website has a **navigation menu** that allows users to navigate between pages.
+## **Instructions**
+- Each question has multiple-choice options. Click on an option to select your answer.
+- After selecting an answer, you will see whether your answer is correct or incorrect.
+- Click **Next Question** to proceed to the next question.
+- Once all questions are answered, your final score will be displayed.
+- To restart the quiz, click **Restart Quiz**.
 
-3. **CSS3 Styling**:
-   - Create a **style sheet** using **CSS3** to design your website (you may use **CSS frameworks** like **Bootstrap** or **TailwindCSS** to speed up the process, but it is not mandatory).
-   - Implement **CSS3 transitions** and **animations** to enhance interactivity (e.g., hover effects, smooth scrolling, fade-in elements).
-   - Make sure your website is **responsive**, using **media queries** to adjust the layout for various screen sizes.
 
-4. **JavaScript Functionality**:
-   - Incorporate **JavaScript** to add interactivity to your website (e.g., form validation, image sliders, modals, or interactive maps).
-   - Use **event listeners** (e.g., `onclick`, `onmouseover`) for user interactions.
-   - Ensure **form validation** is functional for all forms on the website (e.g., contact form, subscription form).
 
-5. **Optimizations**:
-   - Optimize your images (compress them without losing quality).
-   - Minify your CSS and JavaScript files.
-   - Test your website on various browsers (Chrome, Firefox, Safari) and devices to ensure compatibility.
 
-6. **Deployment**:
-   - Deploy your website to a **hosting platform**. Choose one of the following platforms for deployment:
-     - **GitHub Pages**
-     - **Netlify**
-     - **Vercel**
-   - Ensure that your website is **live** and accessible on the internet via a unique URL.
+# **Quiz App**
 
----
+A simple web-based quiz application built with HTML, CSS, and vanilla JavaScript. The app allows users to take a quiz, select answers, and view their score. It provides feedback on correct and incorrect answers and allows users to restart the quiz.
 
-### **Deliverables:**
+## **Features**
+- **Start the Quiz**: Users can begin the quiz by clicking a "Start" button.
+- **Answer Questions**: Multiple-choice questions with options to choose from.
+- **Feedback on Answers**: Correct answers are highlighted in green, and incorrect answers are highlighted in red.
+- **Next Question**: After answering, users can move to the next question.
+- **Final Score**: At the end of the quiz, users receive their score.
+- **Restart Quiz**: Users can restart the quiz once it's completed.
 
-1. **Website Files**:
-   - HTML files for each page (e.g., `index.html`, `about.html`, `contact.html`).
-   - CSS file(s) for styling.
-   - JavaScript file(s) for functionality.
-   - All images and assets used in the project (stored in an `assets/` folder).
-   - README.md file with a description of the project and instructions on how to run it locally.
+## **Technologies Used**
+- **HTML**: For structuring the web page.
+- **CSS**: For styling the quiz app.
+- **JavaScript**: For implementing quiz logic, handling answers, and navigation.
 
-2. **Live Website**:
-   - Provide a **link to the live website** deployed on your chosen hosting platform (GitHub Pages, Netlify, or Vercel).
-   - Ensure that the website is fully functional, responsive, and looks good across devices.
+## **Project Structure**
 
-3. **Documentation**:
-   - Write a brief **documentation** (100-200 words) explaining:
-     - Your design choices (why you chose the layout, colors, etc.).
-     - The features you implemented using **JavaScript** (e.g., form validation, interactive elements).
-     - Any challenges you faced during development and how you overcame them.
-     - The deployment process you followed.
+## **How to Use**
+1. Clone or download this repository.
+2. Open `index.html` in your browser to start playing the quiz.
+3. Click the **Start Quiz** button to begin the quiz.
+4. Answer the questions and see your score at the end.
+5. Click **Restart Quiz** to play again.
 
----
+## **Instructions**
+- Each question has multiple-choice options. Click on an option to select your answer.
+- After selecting an answer, you will see whether your answer is correct or incorrect.
+- Click **Next Question** to proceed to the next question.
+- Once all questions are answered, your final score will be displayed.
+- To restart the quiz, click **Restart Quiz**.
+
+
+## Demo
+- You can view the live demo of the quiz app here: [Live Demo](https://plp-week8.vercel.app/)
+
+## Contributing
+If you'd like to contribute to the project, feel free to fork the repository, make changes, and create a pull request. Please make sure to follow the project's code style and include relevant tests for new features.
+
+## License
+- This project is licensed under the MIT License.
+
+
+
+
+
+
+
+
